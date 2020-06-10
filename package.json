@@ -1,7 +1,7 @@
 {
   "name": "challenge-css-00",
   "version": "1.0.0",
-  "description": "",
+  "description": "Challenge about Flexbox and CSSGrid",
   "main": "index.js",
   "scripts": {
     "start": "live-server ./public"
