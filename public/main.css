@@ -1,6 +1,6 @@
 :root {
-   --background: #e7e7e7;
-   --background-light: #eee;
+   --background: #f3f3f3;
+   --background-light: rgb(255, 255, 255);
    --color-gray: #686868;
    --color-lightGray: rgb(163, 163, 163);
 }
@@ -70,7 +70,6 @@ body {
    margin-bottom: 1.2rem;
    font-size: .9rem;
    opacity: .8;
-   text-align: justify;
 }
 
 .card__actions {

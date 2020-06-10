@@ -6,7 +6,7 @@
   "scripts": {
     "start": "live-server ./public"
   },
-  "keywords": [],
+  "keywords": ["HTML", "CSS", "Flexbox", "CSSGrid"],
   "author": "Angelo Zambrano <angelozam17@gmail.com>",
   "license": "MIT",
   "devDependencies": {
